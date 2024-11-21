@@ -19,5 +19,6 @@ Ensure you have the following installed:
 
 - Navigate to the project folder
 - Run "npm i"
+- Run "npm run build"
 - Run "npm run preview"
 - The project should be up and running at http://localhost:5173/
